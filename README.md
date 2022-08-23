@@ -11,3 +11,6 @@ bool dxTextFigma(text, leftX, topY, rightX, bottomY, color, scaleXY, scaleY, fon
 | :----------------- | :---------------------------------------------------------------- |
 | **Text**           | The text to draw                                                  |
 | **LeftX**          | the absolute X coordinate of the top left corner of the text      |
+| **TopY**           | the absolute Y coordinate of the top left corner of the text      |
+| **RightX**         | the absolute W coordinate of the top left corner of the text      |
+| **BottomY**        | the absolute H coordinate of the top left corner of the text      |
